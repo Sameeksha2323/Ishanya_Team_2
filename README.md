@@ -1,5 +1,5 @@
 # Ishanya_Team_2
-###Hi, Welcome to the Repository for Ishanya_Team_2's project for Ishanya Foundation. 
+### Hi, Welcome to the Repository for Ishanya_Team_2's project for Ishanya Foundation. 
 
 Team Mentors:
 1. 
